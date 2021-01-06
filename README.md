@@ -61,7 +61,7 @@
 
 </br>
 
-![Abhishekrawe's github stats](https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&theme=twodark) 
+![Abhishekrawe's github stats](https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&theme=dark) 
 </br>
 ---
 
