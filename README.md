@@ -59,16 +59,15 @@
 
 ➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
 
+---
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="abhishekrawe's GitHub Stats" src="https://github-readme-stats.abhishekrawe.vercel.app/api?username=abhishekrawe&show_icons=true&hide_border=true" />
 
 </details>
-
----
 [website]: https://abhishekrawe.github.io/abportfolio/
 [medium]: https://medium.com/@Abhishek_rawe
 [twitter]: https://twitter.com/codeSTACKr
