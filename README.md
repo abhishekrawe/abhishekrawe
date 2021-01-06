@@ -62,7 +62,7 @@
 
  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="abhishekrawe's GitHub Stats" src="htub-retps://githadme-stats.codestackr.vercel.app/api?username=abhishekrawe&show_icons=true&hide_border=true_theme=dark&show_icons=true&hide_border=true" />
+  ![Abhishekrawe's github stats] alt="abhishekrawe's GitHub Stats" src="htub-retps://githadme-stats.codestackr.vercel.app/api?username=abhishekrawe&show_icons=true&hide_border=true_theme=dark&show_icons=true&hide_border=true" />
    
 </br>
 ---
