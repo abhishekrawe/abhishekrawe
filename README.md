@@ -60,7 +60,9 @@
 ➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
 </br>
 
-![Abhishekrawe's github stats](https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&hide_border=true_theme=dark) 
+ <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="htub-retps://githadme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </br>
 ---
 
