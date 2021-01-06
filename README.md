@@ -58,13 +58,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
-</br>
 
- <summary>:zap: GitHub Stats</summary>
-
-  ![Abhishekrawe's github stats] alt="abhishekrawe's GitHub Stats" src="htub-retps://githadme-stats.codestackr.vercel.app/api?username=abhishekrawe&show_icons=true&hide_border=true_theme=dark&show_icons=true&hide_border=true" />
-   
-</br>
 ---
 
 [website]: https://abhishekrawe.github.io/abportfolio/
