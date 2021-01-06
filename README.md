@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Rawe  👋
 
-## I'm a passionate developer!!
+## Passionate developer|| Programmer|| CSE || Full stack
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -30,7 +30,7 @@
 </br>
 
 ---
-
+</br>
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -45,14 +45,3 @@
 
 ---
 
-
-[website]: https://https://abhishekrawe.github.io/abportfolio/
-<!-- [course]: http://vsCodeHero.com -->
-[twitter]: https://twitter.com/abhishek_rawe
-[youtube]: https://youtube.com/abhishek_rawe
-[instagram]: https://instagram.com/abhishek_rawe
-[linkedin]: https://www.linkedin.com/in/abhishek-rawe-11b4011aa
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
