@@ -59,8 +59,7 @@
 
 ➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
 </br>
- <summary>:zap: GitHub Stats</summary>
-![Abhishekrawe's github stats](https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&theme=onedark) 
+![Abhishekrawe's github stats](https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&theme=onepink) 
 </br>
 ---
 
