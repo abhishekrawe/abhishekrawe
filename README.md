@@ -58,9 +58,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
-
----
 ![Lord Aman's github stats](https://github-readme-stats.vercel.app/api?username=Lord-Aman&show_icons=true&theme=onedark) 
+---
+
 [website]: https://abhishekrawe.github.io/abportfolio/
 [medium]: https://medium.com/@Abhishek_rawe
 [twitter]: https://twitter.com/codeSTACKr
