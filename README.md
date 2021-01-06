@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Rawe  👋
 
-## Passionate developer|| Programmer|| CSE || Full stack
+## ||Passionate developer || Programmer || CSE || Full stack||
 
 
 - 🌱 I’m currently learning everything 🤣
