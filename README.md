@@ -8,7 +8,7 @@
 - 🐱‍🚀I am a tech freak and always eager to expand my skills.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
