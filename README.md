@@ -1,7 +1,8 @@
-## ||Passionate developer || Programmer || CSE || Full stack||
-- 🌱 I’m currently learning everything 🤣
+## ||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||
+
+- 🌱 I’m currently learning everything .
 - 💖Who loves to develop and design innovative and interactive websites.
-- 🐱‍🚀I am a tech freak and always eager to expand my skills.
+- 🚀I am a tech freak and always eager to expand my skills.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 
