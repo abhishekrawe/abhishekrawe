@@ -40,10 +40,13 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 <p align="center">
+ 
+### 📫 Reach me at
 
-
-
-
+<p align="center">
+<a href="mailto:abhi953434@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhishekrawe/ "><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+</p>
 <p align="center">
   <samp>
     Hi, I'm Abhishek Rawe! 👋 <br>
@@ -54,23 +57,7 @@
     :art: Portfolio: https://www.linkedin.com/in/abhishekrawe/ <br>
   </samp>
 </p>
-  
-### 📫 Reach me at
 
-<p align="center">
-<a href="mailto:abhi953434@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishekrawe/ "><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-</p>
-
-Here are some quick facts of me:
-
-- 🔭 I’m currently working on a npm package [*digital-logic-gate*](https://www.npmjs.com/package/digital-logic-gate)
-- 🌱 I’m currently learning Fundamentals of Data Structure and Algorithms and Javascript based electronics
-- 👯 I’m looking to collaborate on any kind of projects 
-- 🤔 I’m looking for help with any individual or Start-Ups
-- 💬 Ask me about anything but except any free source code
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I don't love to just code, rather i love projects.
 
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
