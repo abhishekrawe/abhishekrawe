@@ -42,18 +42,12 @@
 
 <p align="center">
   <samp>
-    - 🌱 I’m currently learning everything .
-    - 💖Who loves to develop and design innovative and interactive websites.
-    - 🚀I am a tech freak and always eager to expand my skills.
-    - 🥅 2021 Goals: Contribute more to Open Source projects.
-    
-    
-    
-    
-    
-    
     Hi, I'm Abhishek Rawe! 👋 <br>
     🔥 20 Year's Old Software Developer grinding hard to make something cool  <br>
+    : 💖Who loves to develop and design innovative and interactive websites <br>
+    : 🥅 2021 Goals: Contribute more to Open Source projects <br>
+    : 🌱 I’m currently learning everything <br>
+    : 🚀I am a tech freak and always eager to expand my skills <br>
     :sparkles: Favorite Tech: JavaScript, React, C++ ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :art: Portfolio: https://www.linkedin.com/in/abhishekrawe/ <br>
