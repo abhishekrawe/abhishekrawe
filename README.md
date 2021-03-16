@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-# 👋🏾👨‍ Hi, I'm Abhishek Rawe,a FullStack Developer . 🎓‍💻
+# 👋🏾👨‍## ||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||. 🎓‍💻
 
 ### Tools Which I Use
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -39,11 +39,19 @@
 
 
 
-<!--
-**ayan-biswas0412/ayan-biswas0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <p align="center">
   <samp>
+    - 🌱 I’m currently learning everything .
+    - 💖Who loves to develop and design innovative and interactive websites.
+    - 🚀I am a tech freak and always eager to expand my skills.
+    - 🥅 2021 Goals: Contribute more to Open Source projects.
+    
+    
+    
+    
+    
+    
     Hi, I'm Abhishek Rawe! 👋 <br>
     🔥 20 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, C++ ... <br>
