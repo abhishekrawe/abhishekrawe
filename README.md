@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-##👨‍ Hi, I'm Ayan,a FullStack Developer and an Electronics enthusiast. 🎓‍💻
-##👨‍||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||. 🎓‍
+##👨‍ Hi, I'm Abhishek Rawe,a FullStack Developer and an C ++ Programmer. 🎓‍💻
+
 
 ### Tools Which I Use
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
