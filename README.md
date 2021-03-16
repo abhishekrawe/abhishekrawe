@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-# 👋🏾👨‍## ||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||. 🎓‍💻
+# 👋🏾👨‍||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||. 🎓‍💻
 
 ### Tools Which I Use
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -44,10 +44,10 @@
   <samp>
     Hi, I'm Abhishek Rawe! 👋 <br>
     🔥 20 Year's Old Software Developer grinding hard to make something cool  <br>
-    : 💖Who loves to develop and design innovative and interactive websites <br>
-    : 🥅 2021 Goals: Contribute more to Open Source projects <br>
-    : 🌱 I’m currently learning everything <br>
-    : 🚀I am a tech freak and always eager to expand my skills <br>
+    💖Who loves to develop and design innovative and interactive websites <br>
+    🥅 2021 Goals: Contribute more to Open Source projects <br>
+    🌱 I’m currently learning everything <br>
+    🚀I am a tech freak and always eager to expand my skills <br>
     :sparkles: Favorite Tech: JavaScript, React, C++ ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :art: Portfolio: https://www.linkedin.com/in/abhishekrawe/ <br>
