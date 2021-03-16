@@ -7,7 +7,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=abhishekrawe0412&show_icons=true&line_height=20&theme=tokyonight" />
 </p>
 
 ## Hello World :sparkling_heart: 👋🏽 
