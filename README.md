@@ -8,7 +8,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <p align="center">
   
-<img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhishek_rawe&theme=dark&show_icons=true&hide_border=true" width="350"/>
+<img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhishekrawe&theme=dark&show_icons=true&hide_border=true" width="350"/>
 
 <a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact&theme=dark" height="138"/></a>
 </p>
