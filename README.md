@@ -7,8 +7,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=abhishek_rawe0412&show_icons=true&line_height=20&theme=tokyonight" />
+  
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=avinashbest&theme=dark&show_icons=true&hide_border=true" width="350"/>
+
+<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbest&layout=compact&theme=dark" height="138"/></a>
 </p>
+
 
 ## Hello World :sparkling_heart: 👋🏽 
 ### I :heart: GitHub :octocat:
