@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-## 👋🏾👨‍||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||. 🎓‍💻
+##👨‍||Passionate developer || C ++ Programmer || CSE '23 || Full stack Enthusiast ||. 🎓‍
 
 ### Tools Which I Use
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
