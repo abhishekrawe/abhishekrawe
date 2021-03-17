@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-# 👋👨‍ Hi, I'm Abhishek |FullStack Developer|C++ Programmer.🎓‍
+# 👋👨‍ Hi, I'm Abhishek | FullStack Developer| C++ Programmer.🎓‍
 
 ### Languages and Tools:
  
