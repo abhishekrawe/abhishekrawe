@@ -2,16 +2,12 @@
 # 👋👨‍ Hi, I'm Abhishek |FullStack Developer|C++ Programmer.🎓‍
 
 ### Languages and Tools:
- 
-<p align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/bootstrap.gif" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
- 
-</p>
 
  
 ### 📫 Reach me at
