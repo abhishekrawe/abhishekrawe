@@ -17,12 +17,6 @@
 ### 📫 Reach me at
 
 <p align="center">
-<a href="mailto:abhi953434@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishekrawe/ "><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-</p>
-
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
-
 ### Connect with me:
 [<img align="left" alt="abhisahekrawe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -31,6 +25,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][instagram]
 <br />
+</p>
+
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
+
+
 
 ---
 
