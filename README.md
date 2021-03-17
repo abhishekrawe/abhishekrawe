@@ -9,10 +9,6 @@
 <p align="center">
 
 
-## Hello World :sparkling_heart: 👋🏽 
-### I :heart: GitHub :octocat:
-
-
  
 ### 📫 Reach me at
 
