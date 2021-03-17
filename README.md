@@ -16,17 +16,6 @@
 <a href="mailto:abhi953434@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishekrawe/ "><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 </p>
-<p align="center">
-  <samp>
-    Hi, I'm Abhishek Rawe! 👋 <br>
-    💖Who loves to develop and design innovative and interactive websites <br>
-    🥅 2021 Goals: Contribute more to Open Source projects <br>
-    🌱 I’m currently learning everything <br>
-    🚀I am a tech freak and always eager to expand my skills <br>
-    :art: Portfolio: https://abhishekrawe.github.io/abportfolio/ <br>
-  </samp>
-</p>
-
 
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
