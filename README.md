@@ -16,16 +16,16 @@
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 
-
+---
 
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
-- [How To Create A Kickass GitHub Profile Page](https://www.youtube.com/watch?v=p5hf8i-OzlQ)
-- [I Regret Buying A $4400 Macbook For Software Development - I Bought A PC](https://www.youtube.com/watch?v=6p9AbkwJqs4)
-- [How To Contribute To Open-Source Projects As A Beginner](https://www.youtube.com/watch?v=8e1Mnkdgi4Y)
-- [KeystoneJS & GraphQL API Crash Course](https://www.youtube.com/watch?v=SfYNg6vQH4I)
+- [Essential Technology for Learning JavaScript](https://youtu.be/UI2_JwZJKZQ)
+- [JavaScript Tutorial](https://youtube.com/playlist?list=PLEpXU8c1IB5ed_odPPFR4PYOLxRitDDeP)
+- [Introduction of C programming](https://youtube.com/playlist?list=PLEpXU8c1IB5fUk3dXcC_ZeZXX8Js9DHqp)
+- [Microsoft Learn Student Ambassador - How To Apply](https://youtu.be/jxvtSzh5s5g)
+- [Important Qestions of Data Structure](https://youtu.be/HD7U7EfFJJI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ---
 
