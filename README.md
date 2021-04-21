@@ -27,6 +27,9 @@
 - [Microsoft Learn Student Ambassador - How To Apply](https://youtu.be/jxvtSzh5s5g)
 - [Important Qestions of Data Structure](https://youtu.be/HD7U7EfFJJI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
 ---
 
 ### 📕 Latest Blog Posts
