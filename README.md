@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-# 👋 Hi, I'm Abhishek|FullStack Developer|YT@GeeksWithRawe.🎓‍
+# 👋 Hi, I'm Abhishek Rawe.🎓‍
 
 ### Languages and Tools:
  
