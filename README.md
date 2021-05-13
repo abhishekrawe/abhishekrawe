@@ -18,6 +18,39 @@
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Shahriar Shafin's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
+                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+    </p>
+</details>
 ---
 
 📺 Latest YouTube Videos
