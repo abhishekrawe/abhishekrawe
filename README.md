@@ -25,11 +25,11 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:abhi953434@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
-        <a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
+        <a href="https://www.facebook.com/abhishekrawe" target="_blank"><img alt="Facebook"
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
@@ -41,7 +41,7 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/c/Geeks with Rawe/videos" target="_blank"><img alt="Youtube"
+        <a href="https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>
