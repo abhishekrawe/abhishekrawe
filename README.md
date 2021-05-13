@@ -56,6 +56,8 @@
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Unboxing my Swags of Microsoft](https://www.youtube.com/watch?v=tA8UwSYiC9k&ab_channel=GeekswithRawe)
+- [Introduction of Web API and GitHub Web API](https://www.youtube.com/watch?v=YxWY_QGwwKc&ab_channel=GeekswithRawe)
 - [Essential Technology for Learning JavaScript](https://youtu.be/UI2_JwZJKZQ)
 - [JavaScript Tutorial](https://youtube.com/playlist?list=PLEpXU8c1IB5ed_odPPFR4PYOLxRitDDeP)
 - [Introduction of C programming](https://youtube.com/playlist?list=PLEpXU8c1IB5fUk3dXcC_ZeZXX8Js9DHqp)
