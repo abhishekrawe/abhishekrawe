@@ -46,7 +46,7 @@
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
         <!-- Medium -->
-        <a href="https://www.medium.com/in/abhishekrawe/" target="_blank"><img alt="Medium"
+        <a href="https://medium.com/@Abhishek_rawe" target="_blank"><img alt="Medium"
                 src="https://img.shields.io/badge/-Medium-0A66C2?style=flat-square&logo=Medium&logoColor=white">
         </a>
     </p>
