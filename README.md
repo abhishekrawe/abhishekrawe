@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" width="70">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" width="70">
  
+ 
 </p>
 
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
@@ -43,6 +44,10 @@
         <!-- Youtube -->
         <a href="https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+        <!-- Medium -->
+        <a href="https://www.medium.com/in/abhishekrawe/" target="_blank"><img alt="Medium"
+                src="https://img.shields.io/badge/-Medium-0A66C2?style=flat-square&logo=Medium&logoColor=white">
         </a>
     </p>
 </details>
