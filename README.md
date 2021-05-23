@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rawe</h1>
 <h3 align="center">A Full Stack Enthusiast and a Tech Explorer from India</h3>
 
-### Languages and Tools:
+
 
 
 <!-- Details Section-->
