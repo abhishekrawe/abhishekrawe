@@ -64,7 +64,7 @@
 - [Website for Learning Coding for Free](https://medium.com/@Abhishek_rawe/website-to-learn-coding-for-free-845926961337)
 - [Top Coding Platform for Coding and Challanges ](https://medium.com/@Abhishek_rawe/top-5-popular-website-for-coding-challenges-and-for-practices-9d32e06f691b)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://abhishekrawe.com/)
+➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
 </td>
 <td valign="top" width="50%">
 
@@ -79,7 +79,7 @@
 - [Microsoft Learn Student Ambassador - How To Apply](https://youtu.be/jxvtSzh5s5g)
 - [Important Qestions of Data Structure](https://youtu.be/HD7U7EfFJJI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-➡️ [more videos...](https://www.youtube.com/c/)
+➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
 </td>
 
  <details>
