@@ -53,6 +53,44 @@
 </details>
 ---
 
+
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+- [What is Git and Github? | Git vs GitHub](https://ayushirawat.com/what-is-git-and-github-or-git-vs-github)
+- [Best Podcasts for Python](https://ayushirawat.com/best-podcasts-for-python)
+- [Automate Cowin Vaccine slots Availability using Python](https://ayushirawat.com/automate-cowin-vaccine-slots-availablity-using-python)
+- [What is Competitive Programming | Beginners Guide](https://ayushirawat.com/what-is-competitive-programming-or-beginners-guide)
+- [Best IDE's for Python](https://ayushirawat.com/best-ides-for-python)
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://ayushirawat.com/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+- [What is Git and GitHub? ](https://www.youtube.com/watch?v=nWIAc-9EFdg)
+- [How to Develop & Showcase Soft Skills ](https://www.youtube.com/watch?v=bLcjvkMTRyo)
+- [Top 5 Podcasts for Python ](https://www.youtube.com/watch?v=jAOkWehMF6E)
+- [How to Automate CoWin Vaccine Notifier using Python ](https://www.youtube.com/watch?v=HrTQqSKWClE)
+- [What is Competitive Programming ](https://www.youtube.com/watch?v=C0YFYXfaEDM)
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
