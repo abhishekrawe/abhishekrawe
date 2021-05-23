@@ -51,8 +51,6 @@
         </a>
     </p>
 </details>
----
-
 
 <table><tr><td valign="top" width="50%">
 
