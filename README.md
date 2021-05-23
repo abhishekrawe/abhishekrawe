@@ -21,7 +21,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp> Read More</samp></summary>
+    <summary> Read More</summary>
     <p align="center">
         <!-- Social Links -->
         <p>Find me on</p>
@@ -80,7 +80,7 @@
 </td>
 
  <details  align="center">
-<summary>📊 Github Stats</summary>
+<summaryGithub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&theme=gotham" alt="Abhishek Rawe | Stats" />
 
