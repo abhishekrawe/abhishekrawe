@@ -54,6 +54,7 @@
 ---
 
 
+<table><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
@@ -78,12 +79,12 @@
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
 </td>
 
+ <details>
+<summary>📊 Github Stats</summary>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
 
-
-
-
-
+</details>
 
 
 
