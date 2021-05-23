@@ -52,7 +52,7 @@
     </p>
 </details>
 
-<table><tr><td valign="top" width="50%">
+<table  align="Center" ><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
