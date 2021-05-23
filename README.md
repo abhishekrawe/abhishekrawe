@@ -95,20 +95,6 @@
 
 
 
-📺 Latest YouTube Videos
-
-
-
-▶ [...more YouTube videos](https://youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
----
-
-### 📕 Latest Blog Posts
-
-
-
-➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
-
----
 
 [website]: https://abhishekrawe.github.io/abportfolio/
 [medium]: https://medium.com/@Abhishek_rawe
