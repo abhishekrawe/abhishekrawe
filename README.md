@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
 
 <h1 align="center">Hi 👋, I'm Abhishek Rawe</h1>
 <h3 align="center">A Full Stack Enthusiast and a Tech Explorer from India</h3>
@@ -28,7 +27,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> Read More</summary>
+    <summary> connect me </summary>
     <p align="center">
         <!-- Social Links -->
         <p>Find me on</p>
