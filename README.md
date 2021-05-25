@@ -27,7 +27,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> connect me </summary>
+    <summary> connect </summary>
     <p align="center">
         <!-- Social Links -->
         <p>Find me on</p>
@@ -64,7 +64,6 @@
 <table  align="Center" ><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
-<!-- BLOG-POST-LIST:START -->
 - [Best Channel for learning Javascript](https://medium.com/@Abhishek_rawe/10-best-youtube-channels-for-learning-javascript-595b3d0b2df5)
 - [Frontend, Backend, FullStack Developer](https://medium.com/@Abhishek_rawe/what-is-a-front-end-back-end-full-stack-developer-122ea0a8f0b0)
 - [Top Tools for Making website Without Coding](https://medium.com/@Abhishek_rawe/tools-to-make-websites-without-coding-skills-e94990497f03)
