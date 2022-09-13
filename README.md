@@ -1,4 +1,5 @@
-![](assets/images/header.png)
+![header](https://user-images.githubusercontent.com/65603830/189990171-e2b3421b-f13c-4911-afb0-ef62ee7dffac.png)
+
 <h1 align="center">Hi 👋, I'm Abhishek Rawe</h1>
 <h3 align="center">A Full Stack Enthusiast and a Tech Explorer from India</h3>
 
