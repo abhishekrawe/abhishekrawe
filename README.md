@@ -1,9 +1,10 @@
 ![header](https://user-images.githubusercontent.com/65603830/189990171-e2b3421b-f13c-4911-afb0-ef62ee7dffac.png)
-
+<p>
 <h1 align="center">Hello there, I'm <a href = "https://abhishekrawe.netlify.app/"> abhishek rawe 👋</h1>
-<h3 align="center">
+<p align="center">
  <samp>( "👨‍💻 Full Stack Engineer"| "⚙ Tech Explorer" | "💼 Engineering." )</samp>
-
+ </p>
+ </p>
 <details>
     
 <summary align = "center" > Language and Technology 
