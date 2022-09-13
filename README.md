@@ -5,6 +5,8 @@
  <samp>( "👨‍💻 Full Stack Engineer"| "⚙ Tech Explorer" | "💼 Engineering." )</samp>
  </p>
  </p>
+ 
+ 
 <details>
     
 <summary align = "center" > Language and Technology 
