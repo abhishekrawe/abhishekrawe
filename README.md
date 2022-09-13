@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rawe</h1>
 <h3 align="center">A Full Stack Enthusiast and a Tech Explorer from India</h3>
 
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="230px" width="230px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="230px" width="230px"> </p>
-
 <details>
     
 <summary align = "center" > Language and Technology 
