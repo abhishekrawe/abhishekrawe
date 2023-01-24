@@ -67,48 +67,7 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
-</td>
- 
- <table  align="Center" ><tr><td valign="top" width="50%">
-<!-- BLOG-POST-LIST:START -->
-
-### My Latest Blog Posts 🌱
-- [Best Channel for learning Javascript](https://medium.com/@Abhishek_rawe/10-best-youtube-channels-for-learning-javascript-595b3d0b2df5)
-- [Frontend, Backend, FullStack Developer](https://medium.com/@Abhishek_rawe/what-is-a-front-end-back-end-full-stack-developer-122ea0a8f0b0)
-- [Top Tools for Making website Without Coding](https://medium.com/@Abhishek_rawe/tools-to-make-websites-without-coding-skills-e94990497f03)
-- [Website for Learning Coding for Free](https://medium.com/@Abhishek_rawe/website-to-learn-coding-for-free-845926961337)
-- [Top Coding Platform for Coding and Challanges ](https://medium.com/@Abhishek_rawe/top-5-popular-website-for-coding-challenges-and-for-practices-9d32e06f691b)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
-</td>
-<td valign="top" width="50%">
-
-### My Latest YouTube Videos 🌱
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Unboxing my Swags of Microsoft](https://www.youtube.com/watch?v=tA8UwSYiC9k&ab_channel=GeekswithRawe)
-- [Introduction of Web API and GitHub Web API](https://www.youtube.com/watch?v=YxWY_QGwwKc&ab_channel=GeekswithRawe)
-- [Essential Technology for Learning JavaScript](https://youtu.be/UI2_JwZJKZQ)
-- [Introduction of C programming](https://youtube.com/playlist?list=PLEpXU8c1IB5fUk3dXcC_ZeZXX8Js9DHqp)
-- [Microsoft Learn Student Ambassador - How To Apply](https://youtu.be/jxvtSzh5s5g)
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
-</td>
-
- <details  align="center">
-<summary> Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishekrawe&show_icons=true&theme=gotham" alt="Abhishek Rawe | Stats" />
-
-</details>
-
-
-
-
-
-
-
+ </td>
 
 [website]: https://abhishekrawe.github.io/abportfolio/
 [medium]: https://medium.com/@Abhishek_rawe
