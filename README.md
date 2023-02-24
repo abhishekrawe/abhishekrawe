@@ -53,20 +53,21 @@
 - [Dukaan assignment](https://github.com/abhishekrawe/dukaan-assignmen)
 - [Task Manager assignment](https://github.com/abhishekrawe/Task-Manager-app)
 - [Volopay assignment](https://github.com/abhishekrawe/volopay-assignment)
+- [Character counter](https://github.com/abhishekrawe/Character-Counter)
 
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
+➡️ [more blog posts...](https://abhishekrawe.netlify.app/)
 </td>
 <td valign="top" width="50%">
 
-### My Latest YouTube Videos 🌱
+### My selected important blog before Frontend Interview 🌱
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Unboxing my Swags of Microsoft](https://www.youtube.com/watch?v=tA8UwSYiC9k&ab_channel=GeekswithRawe)
-- [Introduction of Web API and GitHub Web API](https://www.youtube.com/watch?v=YxWY_QGwwKc&ab_channel=GeekswithRawe)
-- [Essential Technology for Learning JavaScript](https://youtu.be/UI2_JwZJKZQ)
-- [Introduction of C programming](https://youtube.com/playlist?list=PLEpXU8c1IB5fUk3dXcC_ZeZXX8Js9DHqp)
-- [Microsoft Learn Student Ambassador - How To Apply](https://youtu.be/jxvtSzh5s5g)
+- [Javascript Notes - akshay saini](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
+- [Asynchoronus Js blog](https://www.freecodecamp.org/news/asynchronous-javascript-explained/)
+- [UseState and UseEffectt](https://ninza7.medium.com/what-is-the-difference-between-useeffect-and-usestate-in-react-e101262eb2f1)
+- [Tricky JS Interview](https://andreassujono.medium.com/top-10-tricky-javascript-questions-often-asked-by-interviewers-45c7dd90495e)
+- [Axios](https://flaviocopes.com/axios/)
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
@@ -113,4 +114,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
+<h3 align="center">Here are some &nbsp;❤️&nbsp; my Blog and Youtube!</h3>
