@@ -40,6 +40,39 @@
 </details>
 
 
+<table  align="Center" ><tr><td valign="top" width="50%">
+<!-- BLOG-POST-LIST:START -->
+
+### My Latest Assignment 🌱
+- [GitHub Issue Page UI assignment](https://github.com/abhishekrawe/assignment)
+- [E-commerce Search/Filter/Category ](https://github.com/abhishekrawe/elevate-assignment)
+- [Quiz app using ReactJS assignment](https://github.com/abhishekrawe/Quiz-app-using-react)
+- [KULA.AI UI Athena assignment](https://github.com/abhishekrawe/athena-assignment)
+- [Banking System Assigment](https://github.com/abhishekrawe/legalpay)
+- [NextJs Portfolio assignment](https://github.com/abhishekrawe/NextJs-portfolio)
+- [Dukaan assignment](https://github.com/abhishekrawe/dukaan-assignmen)
+- [Task Manager assignment](https://github.com/abhishekrawe/Task-Manager-app)
+- [Volopay assignment](https://github.com/abhishekrawe/volopay-assignment)
+
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://medium.com/@Abhishek_rawe)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Unboxing my Swags of Microsoft](https://www.youtube.com/watch?v=tA8UwSYiC9k&ab_channel=GeekswithRawe)
+- [Introduction of Web API and GitHub Web API](https://www.youtube.com/watch?v=YxWY_QGwwKc&ab_channel=GeekswithRawe)
+- [Essential Technology for Learning JavaScript](https://youtu.be/UI2_JwZJKZQ)
+- [Introduction of C programming](https://youtube.com/playlist?list=PLEpXU8c1IB5fUk3dXcC_ZeZXX8Js9DHqp)
+- [Microsoft Learn Student Ambassador - How To Apply](https://youtu.be/jxvtSzh5s5g)
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
+ </td>
+
+ <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 
 <table  align="Center" ><tr><td valign="top" width="50%">
@@ -80,5 +113,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
