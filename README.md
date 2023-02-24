@@ -72,9 +72,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
  </td>
-
- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <table  align="Center" ><tr><td valign="top" width="50%">
 <!-- BLOG-POST-LIST:START -->
