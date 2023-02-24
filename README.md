@@ -60,7 +60,7 @@
 </td>
 <td valign="top" width="50%">
 
-### My selected important blog before Frontend Interview 🌱
+### Check before Frontend Interview 🌱
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Javascript Notes - akshay saini](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
