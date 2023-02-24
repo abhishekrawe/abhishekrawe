@@ -45,7 +45,7 @@
 
 ### My Latest Assignment 🌱
 - [GitHub Issue Page UI assignment](https://github.com/abhishekrawe/assignment)
-- [E-commerce Search/Filter/Category ](https://github.com/abhishekrawe/elevate-assignment)
+- [E-commerce Search/Filter/Category assignment ](https://github.com/abhishekrawe/elevate-assignment)
 - [Quiz app using ReactJS assignment](https://github.com/abhishekrawe/Quiz-app-using-react)
 - [KULA.AI UI Athena assignment](https://github.com/abhishekrawe/athena-assignment)
 - [Banking System Assigment](https://github.com/abhishekrawe/legalpay)
@@ -53,7 +53,7 @@
 - [Dukaan assignment](https://github.com/abhishekrawe/dukaan-assignmen)
 - [Task Manager assignment](https://github.com/abhishekrawe/Task-Manager-app)
 - [Volopay assignment](https://github.com/abhishekrawe/volopay-assignment)
-- [Character counter](https://github.com/abhishekrawe/Character-Counter)
+- [Character counter assignment](https://github.com/abhishekrawe/Character-Counter)
 
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://abhishekrawe.netlify.app/)
