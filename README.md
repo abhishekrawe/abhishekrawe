@@ -63,6 +63,7 @@
 ### Check before Frontend Interview 🌱
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [React Portals - akshay saini](https://dev.to/abhishekrawe/learn-how-to-use-react-portals-and-improve-your-react-development-skills-igc)
 - [Javascript Notes - akshay saini](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
 - [Asynchoronus Js blog](https://www.freecodecamp.org/news/asynchronous-javascript-explained/)
 - [UseState and UseEffectt](https://ninza7.medium.com/what-is-the-difference-between-useeffect-and-usestate-in-react-e101262eb2f1)
