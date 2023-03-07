@@ -63,7 +63,9 @@
 ### Check before Frontend Interview 🌱
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [React Portals - akshay saini](https://dev.to/abhishekrawe/learn-how-to-use-react-portals-and-improve-your-react-development-skills-igc)
+- [React Portals - abhishekrawe dev blog](https://dev.to/abhishekrawe/learn-how-to-use-react-portals-and-improve-your-react-development-skills-igc)
+- [Strict mode - abhishekrawe post](https://www.linkedin.com/posts/abhishekrawe_interviewquestions-javascript-reactjs-activity-7038604353041047552-4EGH?utm_source=share&utm_medium=member_desktop)
+- [Prototypes in react - abhishekrawe post](https://www.linkedin.com/posts/abhishekrawe_javascript-interviewquestions-activity-7037524994859442176-myiO?utm_source=share&utm_medium=member_desktop)
 - [Javascript Notes - akshay saini](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
 - [Asynchoronus Js blog](https://www.freecodecamp.org/news/asynchronous-javascript-explained/)
 - [UseState and UseEffectt](https://ninza7.medium.com/what-is-the-difference-between-useeffect-and-usestate-in-react-e101262eb2f1)
@@ -71,7 +73,7 @@
 - [Axios](https://flaviocopes.com/axios/)
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-➡️ [more videos...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
+➡️ [more...](https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA)
  </td>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
@@ -113,4 +115,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<h3 align="center">Here are some &nbsp;❤️&nbsp; my Blog and Youtube!</h3>
+<h3 align="center">Checkout some of my Blog and Youtube!</h3>
