@@ -64,6 +64,7 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [React Portals - abhishekrawe dev blog](https://dev.to/abhishekrawe/learn-how-to-use-react-portals-and-improve-your-react-development-skills-igc)
+- [Debouncing and Throttling - abhishekrawe dev blog]( https://dev.to/abhishekrawe/debouncing-and-throttling-in-reactjs-4fhf)
 - [Strict mode - abhishekrawe post](https://www.linkedin.com/posts/abhishekrawe_interviewquestions-javascript-reactjs-activity-7038604353041047552-4EGH?utm_source=share&utm_medium=member_desktop)
 - [Prototypes in react - abhishekrawe post](https://www.linkedin.com/posts/abhishekrawe_javascript-interviewquestions-activity-7037524994859442176-myiO?utm_source=share&utm_medium=member_desktop)
 - [Javascript Notes - akshay saini](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
