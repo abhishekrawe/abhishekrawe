@@ -44,6 +44,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 ### My Latest Assignment 🌱
+- [Coinwatch - Crypto Currency Price Tracker](https://github.com/abhishekrawe/coinwatch)
 - [GitHub Issue Page UI assignment](https://github.com/abhishekrawe/assignment)
 - [E-commerce Search/Filter/Category assignment ](https://github.com/abhishekrawe/elevate-assignment)
 - [Quiz app using ReactJS assignment](https://github.com/abhishekrawe/Quiz-app-using-react)
