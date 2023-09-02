@@ -45,6 +45,7 @@
 
 ### My Latest Assignment 🌱
 - [Coinwatch - Crypto Currency Price Tracker](https://github.com/abhishekrawe/coinwatch)
+- [Shoping Cart, Add to Cart subTotal, Auto 0 ](https://github.com/abhishekrawe/totalitycorp-frontend-challenge)
 - [GitHub Issue Page UI assignment](https://github.com/abhishekrawe/assignment)
 - [E-commerce Search/Filter/Category assignment ](https://github.com/abhishekrawe/elevate-assignment)
 - [Quiz app using ReactJS assignment](https://github.com/abhishekrawe/Quiz-app-using-react)
