@@ -15,10 +15,10 @@
 
 **Projects and assignments**
 
-- [Web Builder](https://web-builder-phi.vercel.app/) - Worked on this assignment for the UI Developer Role at [https://fibr.ai/](https://fibr.ai/).
-- [Chat-ai-modal](https://github.com/abhishekrawe/chat-ai-model) - Worked on this assignment for the Frontend Engineer Role at [https://soulhq.ai/](https://soulhq.ai/)
-- [Developer activity dashboard](https://dev-trackers.vercel.app/) - Worked on this assignment for the Frontend Engineer Role at [https://devdynamics.ai/](https://devdynamics.ai/) 
-- You can find more assignments that I completed during the selection process for frontend developer roles, both full-time and intern positions. [Zapit.io](https://github.com/abhishekrawe/coinwatch) , 
+- [Web Builder](https://web-builder-phi.vercel.app/) - Worked on this assignment for the UI Developer Role at [fibr.ai](https://fibr.ai/).
+- [Chat-ai-modal](https://github.com/abhishekrawe/chat-ai-model) - Worked on this assignment for the Frontend Engineer Role at [soulhq.ai](https://soulhq.ai/)
+- [Developer activity dashboard](https://dev-trackers.vercel.app/) - Worked on this assignment for the Frontend Engineer Role at [devdynamics.ai](https://devdynamics.ai/) 
+- You can find more assignments that I completed during the selection process for frontend developer roles, both full-time and intern positions. [zapit.io](https://github.com/abhishekrawe/coinwatch) , 
 [Github Issue UI](https://github.com/abhishekrawe/GitHub-Issue-UI-Page) , 
 [Athena](https://github.com/abhishekrawe/athena-assignment) , 
 [Dukaan](https://github.com/abhishekrawe/dukaan-assignment) , 
