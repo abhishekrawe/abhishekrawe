@@ -36,9 +36,8 @@
 
 
 **Socials**
-- [Linkedin/abhishekrawe](https://www.linkedin.com/in/abhishekrawe/) 
-- [Twitter/RaweAbhishek](https://twitter.com/RaweAbhishek) 
-- [Instagram/abhishek_rawe](https://www.instagram.com/abhishek_rawe/)  
+
+• [Linkedin/abhishekrawe](https://www.linkedin.com/in/abhishekrawe/) • [Twitter/RaweAbhishek](https://twitter.com/RaweAbhishek) • [Instagram/abhishek_rawe](https://www.instagram.com/abhishek_rawe/)  
 
 
 
