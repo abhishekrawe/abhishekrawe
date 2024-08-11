@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/65603830/189990171-e2b3421b-f13c-4911-afb0-ef62ee7dffac.png)
+![abhishekgithubcover](https://github.com/user-attachments/assets/d601810c-92cf-4fbe-b847-379d72183e7e)
 
 - ♂ He/Him 📍 Living in Hyderabad, India
 - I specialize in building visually focused front-end solutions, primarily utilizing frameworks like Next.js and React, along with Tailwind CSS and TypeScript.
